@@ -1,0 +1,3 @@
+/home/bogyeong/test/SnakeGame/CMakeFiles/SnakeGame.dir
+/home/bogyeong/test/SnakeGame/CMakeFiles/edit_cache.dir
+/home/bogyeong/test/SnakeGame/CMakeFiles/rebuild_cache.dir
