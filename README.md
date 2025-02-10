@@ -70,7 +70,9 @@ c++ project
 4. 실행파일 만들기
      cd SnakeGame
 5. 실행파일 만들기
+   
     cmake CMakeLists.txt
+   
     make
 6. 실행하기
     ./snakegame
