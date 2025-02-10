@@ -1,4 +1,5 @@
-# SnakeGame_CppProject
+# SnakeGame
+c++ project
 ### **Game Rules**
 
 ### Rule 1: Snake Movement
