@@ -66,6 +66,7 @@ c++ project
 
 ![image](https://github.com/user-attachments/assets/9524df9f-0ea1-4dd5-b5d6-47c0373ef69a)
 3. 미션 성공시, 다음 stage로 넘어갈 수 있다.
+
 4. 'E'를 누르면 게임이 종료된다.
 
 ## **설치 방법**
