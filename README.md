@@ -1,6 +1,7 @@
 # SnakeGame
 c++ project
-### **Game Rules**
+
+## **Game Rules**
 
 ### Rule 1: Snake Movement
 - Snake는 방향키로 조정하며, 같은 방향의 방향키 입력은 무시한다.
@@ -54,9 +55,20 @@ c++ project
 - 각 스테이지의 Tick은 50-300ms이다.
 - **Time Item**을 획득하면 Tick이 일정 시간 동안 1.5배로 증가한다.
 
-<hr>
+## **실행 화면**
 
-## 설치 방법
+![image](https://github.com/user-attachments/assets/b8ad9471-79aa-4dc6-89ad-7b6047f5d982)
+
+1. 'p'를 누르면 게임이 실행된다.
+   
+![image](https://github.com/user-attachments/assets/81a167a9-f483-4fb6-b3c2-3a1c124d8d19)
+2. map은 랜덤으로 지정되며, map 우측에는 ScoreBoard와 MissionBoard가 뜬다.
+
+![image](https://github.com/user-attachments/assets/9524df9f-0ea1-4dd5-b5d6-47c0373ef69a)
+3. 미션 성공시, 다음 stage로 넘어갈 수 있다.
+4. 'E'를 누르면 게임이 종료된다.
+
+## **설치 방법**
 
 프로젝트의 결과물을 사용하기 위한 방법은 다음과 같습니다:
 1. ncurses 를 설치한다.
