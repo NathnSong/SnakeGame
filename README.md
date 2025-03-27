@@ -1,5 +1,5 @@
 # SnakeGame
-c++ project
+c++ 프로그래밍 과제
 
 ## **Game Rules**
 
